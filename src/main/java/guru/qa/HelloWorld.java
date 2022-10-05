@@ -21,7 +21,4 @@ public class HelloWorld {
         //переполнение
         System.out.println(byte1*byte2);
     }
-
-
-
 }
