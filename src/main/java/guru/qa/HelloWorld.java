@@ -14,11 +14,11 @@ public class HelloWorld {
         System.out.println("a%b=" + (a%b));
         System.out.println("a*b=" + (a*b));
 
-        //логические операторы
+        //логические операторы:
         System.out.println(a>b && c>a);
         System.out.println(a>double1 || a>c);
 
-        //переполнение
+        //переполнение:
         System.out.println(byte1*byte2);
     }
 }
